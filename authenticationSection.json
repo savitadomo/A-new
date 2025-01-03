@@ -1,6 +1,6 @@
 {
   "type": "none",
-  "authCodeText": null,
+  "authCodeText": "",
   "userName": null,
   "password": null,
   "apiKey": null,
