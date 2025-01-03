@@ -11,7 +11,11 @@
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
@@ -28,7 +32,7 @@
   "reports": null,
   "advancedReports": null,
   "guid": "eb487db7-e1b1-437f-bd05-c1094db211c2",
-  "authorName": null,
+  "authorName": "Savita stag",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
